@@ -2,7 +2,7 @@
 
 int main(){
 	
-	printf("Another test\n");
+	printf("New branch file\n");
 	
 	return 0;
 }
